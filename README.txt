@@ -1,5 +1,6 @@
-README file for code to accompany "Construction of Two-Level Nonregular Designs 
-of Strength Three With Large Run Sizes" by Vazquez, A.R. and Xu, H.
+README file for MATLAB code to accompany Vazquez, A. R. and Xu, H. (2019). "Construction 
+of Two-Level Nonregular Designs of Strength Three With Large Run Sizes." Technometrics, 
+Vol. 61, p.p. 341-353.
 
 ===CONTENTS=======================================
 
